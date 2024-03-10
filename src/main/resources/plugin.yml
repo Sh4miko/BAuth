@@ -1,0 +1,4 @@
+name: bauth
+version: '${project.version}'
+main: me.miliblue.bauth.bauth.Bauth
+api-version: '1.16'
